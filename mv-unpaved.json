@@ -1,0 +1,15 @@
+{
+	"adventure": [
+		[
+			{
+				"type": "adventure"
+			}
+		],
+		{
+			"type": [
+				"mtb",
+				"adventure"
+			]
+		}
+	]
+}
