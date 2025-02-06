@@ -1,0 +1,36 @@
+{
+	"adventure": [
+		{
+			"type": "roadrun",
+			"start": "2025-02-03T08:36",
+			"location": "Arnold Arboretum",
+			"trailhead": "South Gate",
+			"mileage": 5,
+			"duration": "1 hour"
+		},
+		{
+			"type": "trailrun",
+			"start": "2025-02-08T09:35",
+			"location": "Chester, VT",
+			"trailhead": "Geoff's House",
+			"mileage": 5,
+			"duration": "1.5 hours"
+		},
+		{
+			"type": "roadrun",
+			"start": "2025-02-05T06:00",
+			"location": "JP",
+			"trailhead": "Monumnet",
+			"mileage": 5,
+			"duration": "1 hour"
+		},
+		{
+			"type": "road",
+			"start": "2025-02-05T08:31",
+			"location": "Boston",
+			"trailhead": "JP to Seaport`",
+			"mileage": 6,
+			"duration": "30 min"
+		}
+	]
+}
