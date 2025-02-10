@@ -1,6 +1,13 @@
 {
 	"adventure": [
 		{
+			"type": "Road Run",
+			"start": "2025-02-11T06:00",
+			"location": "JP",
+			"mileage": 5,
+			"duration": "1"
+		},
+		{
 			"type": "mtb",
 			"start": "2025-02-12T11:00",
 			"location": "Chester, VT"
