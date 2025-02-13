@@ -2,6 +2,13 @@
 	"adventure": [
 		{
 			"type": "Road Run",
+			"start": "2025-02-13T06:00",
+			"location": "The Monument in JP",
+			"mileage": 5,
+			"duration": "1 hour"
+		},
+		{
+			"type": "Road Run",
 			"start": "2025-02-11T06:00",
 			"location": "JP",
 			"mileage": 5,
