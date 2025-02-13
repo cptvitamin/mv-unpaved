@@ -1,62 +1,14 @@
 {
 	"adventure": [
 		{
-			"type": "Road Ride",
-			"start": "2025-02-13T09:00",
-			"location": "To Work",
-			"mileage": 6,
-			"duration": "30 minutes"
-		},
-		{
 			"type": "Road Run",
-			"start": "2025-02-13T06:00",
-			"location": "The Monument in JP",
-			"mileage": 5,
-			"duration": "1 hour"
-		},
-		{
-			"type": "Road Run",
-			"start": "2025-02-11T06:00",
+			"start": "2025-02-14T06:00",
 			"location": "JP",
 			"mileage": 5,
-			"duration": "1"
-		},
-		{
-			"type": "mtb",
-			"start": "2025-02-12T11:00",
-			"location": "Chester, VT"
-		},
-		{
-			"type": "roadrun",
-			"start": "2025-02-15T08:36",
-			"location": "Arnold Arboretum",
-			"trailhead": "South Gate",
-			"mileage": 5,
 			"duration": "1 hour"
 		},
 		{
-			"type": "trailrun",
-			"start": "2025-02-18T09:35",
-			"location": "Chester, VT",
-			"trailhead": "Geoff's House",
-			"mileage": 5,
-			"duration": "1.5 hours"
-		},
-		{
-			"type": "roadrun",
-			"start": "2025-02-22T06:00",
-			"location": "JP",
-			"trailhead": "Monumnet",
-			"mileage": 5,
-			"duration": "1 hour"
-		},
-		{
-			"type": "road",
-			"start": "2025-02-17T08:31",
-			"location": "Boston",
-			"trailhead": "JP to Seaport`",
-			"mileage": 6,
-			"duration": "30 min"
+			"type": "Mountain Bike Ride"
 		}
 	]
 }
